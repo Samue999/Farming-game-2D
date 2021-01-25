@@ -33,8 +33,9 @@ def start():
     input()
     print("Now, the game starts. You now have to survive on this farm and rebuild it.")
     input()
-    import game
     
 
 input("Start with <ENTER>")
 start()
+input()
+
