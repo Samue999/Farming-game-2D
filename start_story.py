@@ -17,7 +17,7 @@ def start():
     input()
     print("On Friday, the 13. November of 2020, a windstorm came and he flew away.")
     input()
-    print("HELP! GET ME BACK!, he screamed. But it was too late already.")
+    print("HELP! GET ME BACK!, he screamed. But it already too late.")
     input()
     print("Then, everything went black.")
     input()
